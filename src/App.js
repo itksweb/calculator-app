@@ -1,4 +1,3 @@
-// import logo from './logo.svg';
 import { Fragment, useState } from "react";
 import Calc from "./components/Calc";
 
